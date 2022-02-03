@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/HRNPH?template=classic&base.community=0&base.metadata=0&languages=1&habits=1&traffic=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.trim=true&config.timezone=Asia/Bangkok)
+![Metrics](https://metrics.lecoq.io/HRNPH?template=classic&base.community=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FBangkok)
 
 ### Hi there 👋
 
