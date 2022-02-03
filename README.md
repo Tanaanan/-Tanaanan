@@ -8,7 +8,7 @@
 <p align="center">
   <em>
     An indie <b>Highschooler</b> in <b>Japanease-English</b> class <br>
-    <b>Who Spends 4hrs a day self study programming</b>
+    <b>Who Spends 4hrs a day self study programming,</b>
     loved to develop something useful / fun,
     <br>I devoted my life and time to the joy of learning</br>
     <br><b>Hate School, Love Study!</b></br>
