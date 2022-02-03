@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img alt="banner" style="border-radius: 50%; max-height:100px; max-width:100px;" src="contents/profile.jpg" />
-
+  <a><img src="contents/profile.jpg" max-height="150px" max-width="150px" style="border-radius:50%"></a>
 
 
   <b><i>Hello, I'm HRN</i></b>
