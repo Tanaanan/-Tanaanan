@@ -44,12 +44,6 @@
   <img align="center" src="contents/tools/express.png" width="120px" />&nbsp;
   <img align="center" src="contents/tools/discord.png" width="50px" />&nbsp;</p>
 <hr>
-<p align="center"><i><b>GitHub Stats</b></i></p>
-
-![Metrics](https://github.com/HRNPH/HRNPH/blob/main/github-metrics.svg)
-
-
-## Hello I'm Guide
 
 #### Education  
 <table>
@@ -75,3 +69,7 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=EntityKunG&theme=dark" alt="streak"/>
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRNPH&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+<p align="center"><i><b>GitHub Stats</b></i></p>
+
+![Metrics](https://github.com/HRNPH/HRNPH/blob/main/github-metrics.svg)
