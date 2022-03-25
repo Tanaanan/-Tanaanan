@@ -66,7 +66,7 @@
 ## 📈 GitHub Stats
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=HRNPH&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=EntityKunG&theme=dark" alt="streak"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=HRNPH&theme=dark" alt="streak"/>
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRNPH&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
