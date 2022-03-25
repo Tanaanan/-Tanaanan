@@ -47,3 +47,31 @@
 <p align="center"><i><b>GitHub Stats</b></i></p>
 
 ![Metrics](https://github.com/HRNPH/HRNPH/blob/main/github-metrics.svg)
+
+
+## Hello I'm Guide
+
+#### Education  
+<table>
+  <tr>
+    <td>High school</td>
+    <td>NMRSW2 <b>(Specialized English Program)</b></td>
+  </tr>
+  <tr>
+    <td>Senior high school</td>
+    <td>NMRSW2 <b>(English-Japanese)</b></td>
+  </tr>
+<table>  
+
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://github.com/HRNPH)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://github.com/HRNPH)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://github.com/HRNPH)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=microsoft&logoColor=white">](https://github.com/HRNPH) 
+
+
+## 📈 GitHub Stats
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=HRNPH&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=EntityKunG&theme=dark" alt="streak"/>
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRNPH&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
