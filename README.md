@@ -70,6 +70,6 @@
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRNPH&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-<p align="center"><i><b>GitHub Stats</b></i></p>
+## 📈 GitHub Stats : additional
 
 ![Metrics](https://github.com/HRNPH/HRNPH/blob/main/github-metrics.svg)
