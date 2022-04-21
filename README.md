@@ -69,5 +69,3 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=HRNPH&theme=dark" alt="streak"/>
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRNPH&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Metrics](https://github.com/HRNPH/HRNPH/blob/main/github-metrics.svg)
