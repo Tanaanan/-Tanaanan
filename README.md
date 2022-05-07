@@ -80,14 +80,13 @@
 
 
 ## 📈 GitHub Stats
-<div>
- <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrnph&layout=compact&hide=html,css&theme=vision-friendly-dark">
- </div>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=HRNPH&count_private=true&show_icons=true&theme=vision-friendly-dark"</img>
-  </span>
-  <span>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=HRNPH&theme=highcontrast" alt="streak"/>
-  </span>
+
+<div align="center">
+   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrnph&layout=compact&hide=html,css&theme=vision-friendly-dark">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=HRNPH&count_private=true&show_icons=true&theme=vision-friendly-dark">
+
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=HRNPH&theme=highcontrast" alt="streak"/>
+   
 </div>
