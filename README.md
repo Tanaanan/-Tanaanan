@@ -3,6 +3,8 @@
   <a href="url"><img src="https://avatars.githubusercontent.com/u/51855316?v=4" height="auto" width="200" style="border-radius:50%"></a>
 
   <b><i>Hello, I'm HRN</i></b>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=hrnph&label=Views&color=yellow&style=for-the-badge" alt="hrnph.github.io" />
 </h1>
 
 <p align="center">
